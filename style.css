@@ -1,0 +1,29 @@
+#input3{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    border: 8cap;
+    height: 20px;
+}
+#btn3{
+    background-color: lightgreen;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+#btn3:hover{
+    background-color: rgb(122, 221, 122);
+    box-shadow: 0 0  4px rgb(0, 0, 0);
+    
+}   
+#p4{
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+}
+#d4{
+    border:  1px solid black;
+   
+    padding: 15px;
+}
